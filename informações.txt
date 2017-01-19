@@ -1,0 +1,17 @@
+Essa aplicação foi desenvolvida:
+
+
+ Aluno: Everton Batista da Silva
+ 
+ Matrícula: 1521360053
+ 
+ Telefone: (83) 998176300
+ 
+ Email: evertonid@ymail.com
+
+ Disciplina: Fundamentos de Programação OO (java e php)
+
+ Curso: Desenvolvimento de Aplicações para Web
+
+ Professor: Rodrigo Fugioka
+ 
